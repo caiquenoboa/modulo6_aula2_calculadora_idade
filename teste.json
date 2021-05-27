@@ -1,0 +1,86 @@
+{
+  "participantes" : [
+    {
+      "nome" : "Caique",
+      "cidade": "Curitiba",
+      "idade": 21,
+      "formado": false,
+      "cursos": [
+        {
+          "nome": "Engenharia de Computação",
+          "duracao": 5,
+          "instituicao": "UTFPR",
+          "nivel": "graduacao"
+        }
+      ]
+    },
+    {
+      "nome": "Gabriel",
+      "cidade": "Franca",
+      "idade": 21,
+      "formado": false,
+      "cursos": [
+        {
+          "nome": "Engenharia de Software",
+          "duracao": 4,
+          "instituicao": "UNI-FACEF",
+          "nivel": "graduacao"
+        }
+      ]
+    },
+    {
+      "nome": "Israel",
+      "cidade": "João Pessoa",
+      "idade": 24,
+      "formado": true,
+      "cursos": [
+        {
+          "nome": "Engenharia Mecanica",
+          "duracao": 5,
+          "instituicao": "UFPB",
+          "nivel": "graduacao"
+        },
+        {
+          "nome": "Engenharia Mecanica - IA",
+          "duracao": 2,
+          "instituicao": "UFPB",
+          "nivel": "mestrado"
+        }
+      ]
+    },
+    {
+      "nome": "João",
+      "cidade": "Ipatinga",
+      "idade": 26,
+      "formado": true,
+      "cursos": [
+        {
+          "nome": "Ciencia da Computação",
+          "duracao": 4,
+          "instituicao": "UFV",
+          "nivel": "graduacao"
+        },
+        {
+          "nome": "Ciencia da Computacao",
+          "duracao": 2,
+          "instituicao": "UFSJ",
+          "nivel": "mestrado"
+        }
+      ]
+    },
+    {
+      "nome": "Paulo",
+      "cidade": "São José dos Campos",
+      "idade": 24,
+      "formado": false,
+      "cursos": [
+        {
+          "nome" :"Analise e Desenvolvimento de Sistemas",
+          "duracao": 3,
+          "instituicao": "FATEC",
+          "nivel": "graduacao"
+        }
+      ]
+    }
+  ]
+}
